@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DigitalIndia</string>
+    <string name="action_settings">Settings</string>
+        <string name="txtCredits1"><a href="http://www.google.com">New Learners License</a></string>
+    <string name="txtCredits2"><a href="http://www.google.com">New Drivers License</a></string>
+    <string name="txtCredits3"><a href="http://www.google.com">Online payment</a></string>
+
+</resources>
